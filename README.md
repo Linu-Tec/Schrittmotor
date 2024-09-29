@@ -15,11 +15,11 @@ IN4 der Motorsteuerplatine wird an Pin3 angeschlossen
 GND der Motorsteuerplatine wird an einem GND Pin am Arduino-Board angeschlossen
 VCC der Motorsteuerplatine wird an den 5V Pin am Arduino-Board angeschlossen
 
-Bild: https://i1.wp.com/www.funduino.de/wp-content/uploads/2016/01/Arduino-Schrittmotor-Platine.jpg?w=1170&ssl=1
+![image](https://github.com/user-attachments/assets/6f700544-e8c5-445e-be69-57ba197e20bb)
 
 
 Bei Motorsteuerplatinen mit nach unten ausgerichteten Pins kann die Steuerplatine auch direkt auf das Mikrocontrollerboard aufgesteckt werden.
-Bild: https://i2.wp.com/funduino.de/wp-content/uploads/2016/01/schrittmotor-aufbau-1.jpg?w=922&ssl=1
+![image](https://github.com/user-attachments/assets/ab9a7394-2334-455a-84ca-9655f913cd02)
 
 
 Dies ist ein Beispielcode, der den Motor abwechselnd um 2048 Schritte (entspricht einer ganzen Umdrehung) vor- und zurückdrehen lässt.
@@ -35,4 +35,4 @@ In diesem Fall soll sich der Motor drehen, bis ein Taster gedrückt wird. Es kö
 
 
 
-Info: https://funduino.de/nr-15-schrittmotor
+[Info](https://funduino.de/nr-15-schrittmotor)
